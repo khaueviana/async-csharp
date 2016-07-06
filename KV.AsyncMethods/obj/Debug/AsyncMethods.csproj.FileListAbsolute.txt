@@ -1,0 +1,9 @@
+C:\Users\khaue.viana\Laboratório\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe.config
+C:\Users\khaue.viana\Laboratório\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe
+C:\Users\khaue.viana\Laboratório\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.pdb
+C:\Users\khaue.viana\Laboratório\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.csprojResolveAssemblyReference.cache
+C:\Users\khaue.viana\Laboratório\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.exe
+C:\Users\khaue.viana\Laboratório\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.pdb
+C:\Users\khaueviana\Desktop\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe.config
+C:\Users\khaueviana\Desktop\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.exe
+C:\Users\khaueviana\Desktop\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.pdb
