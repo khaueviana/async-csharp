@@ -7,3 +7,9 @@ C:\Users\khaueviana\Desktop\AsyncMethods\AsyncMethods\obj\Debug\KV.AsyncMethods.
 C:\Users\khaueviana\Desktop\AsyncMethods\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe.config
 C:\Users\khaueviana\Desktop\AsyncMethods\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.exe
 C:\Users\khaueviana\Desktop\AsyncMethods\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.pdb
+C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe.config
+C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe
+C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.pdb
+C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.csprojResolveAssemblyReference.cache
+C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.exe
+C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.pdb
