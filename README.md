@@ -1,3 +1,3 @@
 # async-csharp
 
-Exemplo de métodos assíncronos com C#.NET.
+Example of asynchronous methods with C # .NET.
