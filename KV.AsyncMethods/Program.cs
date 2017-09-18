@@ -2,6 +2,7 @@
 
 namespace KV.AsyncMethods
 {
+    using System.Threading;
     using System.Threading.Tasks;
 
     class Program
@@ -20,7 +21,7 @@ namespace KV.AsyncMethods
     {
         public async void Foo1()
         {
-            await Task.Yield();
+            await Task.Delay(2000);
 
             Console.WriteLine("Foo1 at " + DateTime.Now.Millisecond);
                        

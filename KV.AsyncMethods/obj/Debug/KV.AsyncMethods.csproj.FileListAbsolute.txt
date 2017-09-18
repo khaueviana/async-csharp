@@ -13,3 +13,10 @@ C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\bin\Debug\K
 C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.csprojResolveAssemblyReference.cache
 C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.exe
 C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.pdb
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe.config
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.pdb
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.csprojResolveAssemblyReference.cache
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.csproj.CoreCompileInputs.cache
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.exe
+C:\Concrete\Projetos\repo-my-own\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.pdb
