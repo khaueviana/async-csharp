@@ -13,3 +13,9 @@ C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\bin\Debug\K
 C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.csprojResolveAssemblyReference.cache
 C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.exe
 C:\Users\khaueviana\Workspace\kv-github\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.pdb
+C:\Users\KV\workspace\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe.config
+C:\Users\KV\workspace\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.exe
+C:\Users\KV\workspace\async-csharp\KV.AsyncMethods\bin\Debug\KV.AsyncMethods.pdb
+C:\Users\KV\workspace\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.csprojResolveAssemblyReference.cache
+C:\Users\KV\workspace\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.exe
+C:\Users\KV\workspace\async-csharp\KV.AsyncMethods\obj\Debug\KV.AsyncMethods.pdb
